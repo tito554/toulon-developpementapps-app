@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toulon.developpementapps.app/sitemap.xml
